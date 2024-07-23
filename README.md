@@ -1,3 +1,17 @@
+
+|                     | What I did                                                                                                                              | Questions                                                                                                     |     |
+| ------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | --- |
+| Initialization      | Created projects under ./nm-projects<br><br>asai = art and science of ai podcast transcripts<br><br>firewater = rukma's writing project |                                                                                                               |     |
+| Indexing            | Followed getting started guide to run indexing pipeline via CLI with settings.yaml in each project folder                               | How to run indexing via function vs. CLI command?<br><br>How to add metadata to index? CSV columns suggested. |     |
+| Global search       | Copied global search notebook in each project to test global search queries                                                             |                                                                                                               |     |
+| Local search        |                                                                                                                                         |                                                                                                               |     |
+| Visualization       |                                                                                                                                         |                                                                                                               |     |
+| Question generation | Not started                                                                                                                             |                                                                                                               |     |
+
+
+
+===
+
 # GraphRAG
 
 👉 [Use the GraphRAG Accelerator solution](https://github.com/Azure-Samples/graphrag-accelerator) <br/>
